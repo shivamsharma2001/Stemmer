@@ -1,0 +1,1 @@
+This file is enclosed within an directory named 'inputs' which will store all the uploaded files by the users.
